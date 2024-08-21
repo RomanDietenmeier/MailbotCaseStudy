@@ -1,0 +1,3 @@
+- workon mailbotcasestudy
+- python SimpleLLMApplicationServer.py
+- open http://localhost:8000/chain/playground/
